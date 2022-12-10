@@ -36,3 +36,8 @@ return 1 + Math.max(maxDepth(root.left) , maxDepth(root.right));
 - Refactor code including rewriting redux-saga on redux-observable (epics, RxJS)
 - Cover project with e2e and unit tests
 - Design project using Ant design library.
+- ## 7. Education
+- *JS-courses in company Andersen.*
+- *It-incubator*
+- *Books* ("Grokking Algorithms", "Clean code")
+- *Youtube-lectures*
