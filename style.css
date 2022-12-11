@@ -1,0 +1,34 @@
+body {
+    height: 100vh;
+    margin: 0;
+}
+
+h1,
+h2,
+ul
+{
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    background: cornflowerblue;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    width: 400px;
+}
+
+.content {
+    background: #eeb4f8;
+}
+
+.footer {
+    height: 100px;
+    background: #e1fdc9;
+}
